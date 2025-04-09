@@ -1,4 +1,5 @@
 version:1.2
-name:deutsche_Willkommen
-  subclass:WDL
-  primaryDescriptorPath:/HalloWelt/hallo.wdl
+workflows:
+  - name:deutsche_Willkommen
+    subclass:WDL
+    primaryDescriptorPath:/HalloWelt/hallo.wdl
