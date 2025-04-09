@@ -1,4 +1,4 @@
 version:1.0
-name:deutsche Willkommen
+name:deutsche_Willkommen
   subclass:WDL
   primaryDescriptorPath:/HalloWelt/hallo.wdl
